@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ukd.examples.DateApiCompareTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-06T08:01:17" hostname="Udays.local" time="0.198">
+  <properties/>
+  <testcase name="testPerformance" classname="ukd.examples.DateApiCompareTest" time="0.198"/>
+  <system-out><![CDATA[	newAPI	oldAPI
+	6		53
+	3		17
+	2		13
+	2		15
+	0		10
+	1		10
+	1		8
+	1		7
+	0		9
+	0		7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
