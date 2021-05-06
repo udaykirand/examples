@@ -70,20 +70,4 @@ public class DateApiCompare {
         }
     }
 
-
-    public static void main(String[] args) {
-        DateApiCompare testObj = new DateApiCompare();
-        long newStartTime = System.currentTimeMillis();
-        testObj.checkNewApproach();
-        long newEndTime = System.currentTimeMillis();
-        long oldStartTime = System.currentTimeMillis();
-        testObj.checkOldApproachDate();
-        long oldEndTime = System.currentTimeMillis();
-
-        System.out.println(String.format(
-                "\t%s\t%s",
-                (newEndTime - newStartTime),
-                (oldEndTime - oldStartTime)));
-    }
-
 }

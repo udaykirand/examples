@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35215e2a-6410-42a1-96ba-df2eba6625c6" name="Default Changelist" comment="" />
+    <list default="true" id="35215e2a-6410-42a1-96ba-df2eba6625c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ukd/examples/DateApiCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ukd/examples/DateApiCompare.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -47,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ukd/examples/DateApiCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="307">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -124,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ukd/examples/DateTimeApiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ukd/examples/DateApiComparision.java" />
         <option value="$PROJECT_DIR$/src/test/java/ukd/examples/DateApiCompareTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ukd/examples/DateApiCompare.java" />
       </list>
     </option>
   </component>
@@ -133,6 +139,7 @@
     <option name="width" value="1387" />
     <option name="height" value="854" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -201,6 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RunDashboard">
@@ -479,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ukd/examples/DateApiCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="307">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
